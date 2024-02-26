@@ -120,8 +120,8 @@ plt.show()
 ```
 ## Output:
 ### Variable Bands
-![op1](https://github.com/anishmj/Ex1-AAI/blob/main/op1.png)
-![op2](https://github.com/anishmj/Ex1-AAI/blob/main/op2.png)
+![image](https://github.com/Rajeshkannan-Muthukumar/Ex1-AAI/assets/93901857/fae9414b-c0dd-4e04-bdc5-d368719c07ad)
+![image](https://github.com/Rajeshkannan-Muthukumar/Ex1-AAI/assets/93901857/054c9d56-c002-487e-8d03-d3fd49abbd6b)
 
 ### Graph
 
