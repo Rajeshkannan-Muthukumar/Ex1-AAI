@@ -99,8 +99,7 @@ bbn = Bbn() \
     .add_edge(Edge(W, RT, EdgeType.DIRECTED))
 
 join_tree = InferenceController.apply(bbn)
-pos={0: (-1,0), 1: (-1, 0.5), 2: (1, 0), 3:(0,-0.5)}
-
+pos={0: (-1,1), 1: (-1, 0.5), 2: (1, 0), 3:(0,-0.5)}
 options = {
     "font_size": 16,
     "node_size": 4000,
@@ -125,7 +124,8 @@ plt.show()
 ![op2](https://github.com/anishmj/Ex1-AAI/blob/main/op2.png)
 
 ### Graph
-![op3](https://github.com/anishmj/Ex1-AAI/blob/main/op3.png)
+
+![image](https://github.com/Rajeshkannan-Muthukumar/Ex1-AAI/assets/93901857/34746f18-4932-477b-a768-d3d7f05b7577)
 
 ## Result:
    Thus a Bayesian Network is generated using Python
